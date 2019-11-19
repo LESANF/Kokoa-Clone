@@ -1,3 +1,3 @@
-# kakao-clone-v2
+# 카카오톡 클론 (HTML, CSS)
 
-Kakao Clone v2
+
